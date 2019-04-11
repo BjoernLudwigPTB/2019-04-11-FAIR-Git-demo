@@ -6,3 +6,8 @@ How to create branches?
 ```
 $ git branch "your_branch_name"
 ```
+
+How to commit?
+```
+$ git commit
+```
